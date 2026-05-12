@@ -2,7 +2,7 @@
 
 A Windows Shell Extension that displays thumbnail previews of IES photometry files directly in Windows Explorer. The thumbnails show polar plots of both vertical and horizontal candela distributions.
 
-![Thumbnail Example](docs/example.png)
+<img width="814" height="447" alt="image" src="https://github.com/user-attachments/assets/a2c80bef-01f3-47d7-84be-aaaa2198500a" />
 
 ## Features
 
